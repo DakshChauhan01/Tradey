@@ -71,3 +71,11 @@ curl http://localhost:3000/api/health
 ---
 
 ## License
+
+MIT License
+
+---
+
+## Summary
+
+Tradey is a local paper trading platform designed to explore financial analytics, technical analysis, real-time systems, and portfolio simulation. The project integrates live market data, WebSocket communication, trading workflows, and educational content within a lightweight Node.js architecture.
